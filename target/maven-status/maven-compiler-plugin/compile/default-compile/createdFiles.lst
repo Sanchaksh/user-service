@@ -1,0 +1,6 @@
+com\oracle\userservice\model\User.class
+com\oracle\userservice\model\Flight.class
+com\oracle\userservice\repository\UserRepository.class
+com\oracle\userservice\service\UserService.class
+com\oracle\userservice\controller\UserController.class
+com\oracle\userservice\UserServiceApplication.class
